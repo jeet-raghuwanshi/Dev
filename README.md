@@ -1,2 +1,2 @@
 # resumes.github.io
-here i keep my resumes
+https://jeet-raghuwanshi.github.io/resumes.github.io/
